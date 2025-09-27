@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋🏻, I'm Bintang Fajar Putra Pamungkas</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=6000&pause=2000&color=FFFFFF&width=600&center=true&lines=Hi,+I'm+Bintang+Fajar+Putra+Pamungkas;Welcome+to+my+profile!;Nice+to+meet+you!" alt="Typing SVG" />
+</div>
+
+
 <h3 align="center">A Computer Science Student 🇮🇩</h3>
 
 <div align="center">

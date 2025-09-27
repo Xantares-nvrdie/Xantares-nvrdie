@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bintang Fajar Putra Pamungkas</h1>
 <h3 align="center">A Computer Science Student 🇮🇩</h3>
-![GIF animasi dari seekor kucing](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFib2w2czUxdHlxcWNlNmI1YTh3MHhtbzI4bGRoNGY1YTJzenUzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcnAlQcGnZq9y/giphy.gif)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xantares-nvrdie&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 

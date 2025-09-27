@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Bintang Fajar Putra Pamungkas</h1>
+<h1 align="center">Hi 👋🏻, I'm Bintang Fajar Putra Pamungkas</h1>
 <h3 align="center">A Computer Science Student 🇮🇩</h3>
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFib2w2czUxdHlxcWNlNmI1YTh3MHhtbzI4bGRoNGY1YTJzenUzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcnAlQcGnZq9y/giphy.gif" width="600px" height="204px alt="Gif" />
+</div>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xantares-nvrdie&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -23,7 +28,7 @@
 </p>
 
 
-### 📊 My GitHub Stats:
+### GitHub Stats:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=xantares-nvrdie&show_icons=true&locale=en&theme=dark" alt="xantares-nvrdie" />

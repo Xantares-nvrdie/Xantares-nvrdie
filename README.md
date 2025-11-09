@@ -16,7 +16,7 @@ r<div align="center">
 
 ### Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,html,java,js,mysql,nodejs,php,python,tailwind&theme=dark&perline=20" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,html,java,js,mysql,nodejs,php,python,vue,react,laravel,tailwind&theme=dark&perline=20" />
 </p>
 
 

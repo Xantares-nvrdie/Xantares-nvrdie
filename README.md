@@ -1,4 +1,4 @@
-<div align="center">
+r<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=6000&pause=2000&color=FFFFFF&width=600&center=true&lines=Hi,+I'm+Bintang+Fajar+Putra+Pamungkas;Welcome+to+my+profile!;Nice+to+meet+you!" alt="Typing SVG" />
 </div>
 
@@ -15,7 +15,7 @@
 ---
 
 ### Languages and Tools:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,html,java,js,mysql,nodejs,php,python,tailwind&theme=dark&perline=20" />
 </p>
 

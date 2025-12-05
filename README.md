@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,html,js,java,mysql,nodejs,php,python,vue,react,laravel,tailwind&theme=dark&perline=20" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,java,nodejs,php,python,c,cpp,nextjs,vue,react,laravel,tailwind,elysia,express,postman&theme=dark&perline=7" />
 </p>
 
 

@@ -2,12 +2,40 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=6000&pause=2000&color=FFFFFF&width=600&center=true&lines=Hi,+I'm+Bintang+Fajar+Putra+Pamungkas;Welcome+to+my+profile!;Nice+to+meet+you!" alt="Typing SVG" />
 </div>
 
+<!-- <h3 align="center">A Computer Science Student 🇮🇩</h3> -->
+<img
+  src="https://github.com/user-attachments/assets/56c39863-a0c4-49a2-8bcb-c3191b64c5ba"
+  alt="thinking backend thoughts"
+  align="left"
+/>
 
-<h3 align="center">A Computer Science Student 🇮🇩</h3>
+```rescript
+module XANTARES = {
+  let name = "Bintang"
+  let username = "Xantares-nvrdie"
+  let location = "Bandung, Indonesia 🇮🇩"
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFib2w2czUxdHlxcWNlNmI1YTh3MHhtbzI4bGRoNGY1YTJzenUzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcnAlQcGnZq9y/giphy.gif" width="600px" height="204px alt="Gif" />
-</div>
+  let interests = [
+    "functions that accidentally work",
+    "side effects I swear are pure",
+    "types saving me from myself",
+    "JSON shape guessing",
+    "refactoring because vibes felt wrong",
+  ]
+
+  let currentFocus =
+    option("Understanding why my backend works (sometimes)")
+
+  let stack = [
+    "Node.js",
+    "Elysia.js",
+    "Fastify (sometimes)",
+    "PostgreSQL (eventually)",
+    "console.log",
+    "macOS (development)",
+  ]
+}
+```
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xantares-nvrdie&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>

@@ -3,11 +3,12 @@
 </div>
 
 <!-- <h3 align="center">A Computer Science Student 🇮🇩</h3> -->
+
 <img
   src="https://github.com/user-attachments/assets/56c39863-a0c4-49a2-8bcb-c3191b64c5ba"
   alt="thinking backend thoughts"
-  align="left"
-  height="540px"
+  align="right"
+  height="500px"
 />
 
 ```rescript
@@ -37,6 +38,7 @@ module XANTARES = {
   ]
 }
 ```
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xantares-nvrdie&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>

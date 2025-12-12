@@ -5,7 +5,6 @@
 <img
   src="https://github.com/user-attachments/assets/2ff48a26-2300-47a4-80b2-7176c9db1293"
   alt="thinking backend thoughts"
-  style="margin-top:20px;margin-right:13px"
   align="left"
 />
 

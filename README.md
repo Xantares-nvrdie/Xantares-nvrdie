@@ -1,17 +1,16 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=6000&pause=2000&color=FFFFFF&width=600&center=true&lines=Hi,+I'm+Bintang+Fajar+Putra+Pamungkas;Welcome+to+my+profile!;Nice+to+meet+you!" alt="Typing SVG" />
 </div>
-
 <!-- <h3 align="center">A Computer Science Student 🇮🇩</h3> -->
-
 <img
-  src="https://github.com/user-attachments/assets/56c39863-a0c4-49a2-8bcb-c3191b64c5ba"
+  src="https://github.com/user-attachments/assets/2ff48a26-2300-47a4-80b2-7176c9db1293"
   alt="thinking backend thoughts"
-  align="right"
-  height="500px"
+  style="margin-top:20px;margin-right:13px"
+  align="left"
 />
 
 ```rescript
+
 module XANTARES = {
   let name = "Bintang"
   let username = "Xantares-nvrdie"
@@ -37,10 +36,8 @@ module XANTARES = {
     "macOS (development)",
   ]
 }
+
 ```
-
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xantares-nvrdie&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 ---

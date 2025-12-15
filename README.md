@@ -43,7 +43,7 @@ module XANTARES = {
 
 ### Languages and Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,java,nodejs,php,python,c,cpp,nextjs,vue,react,laravel,tailwind,elysia,express,postman&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,java,nodejs,php,python,c,cpp,nextjs,vue,react,laravel,tailwind,elysia,express,postman,docker,redis&theme=dark&perline=7" />
 </p>
 
 
